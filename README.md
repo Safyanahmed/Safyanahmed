@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Safyanahmed
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning JavaScript, Python, C#
-- 📫 How to reach me safyanahmed.com
+- 📫 How to reach me: safyanahmed.com
 
 <!---
 Safyanahmed/Safyanahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
