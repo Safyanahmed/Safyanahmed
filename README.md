@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Safyanahmed
-- 👀 I’m interested in software development
-- 🌱 I’m currently learning C#, JavaScript, Python.
+- 👀 I’m interested in website development
+- 🌱 I’m currently learning JavaScript and then on to React
 - 📫 How to reach me: safyanahmed.com
 
 <!---
